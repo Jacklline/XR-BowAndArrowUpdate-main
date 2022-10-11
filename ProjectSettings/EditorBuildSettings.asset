@@ -9,6 +9,8 @@ EditorBuildSettings:
     path: Assets/_BowAndArrow/Scenes/Main.unity
     guid: 0bdc2251efd355d45add28195d99d336
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8bd8596bc1fe86647ab2db926684261b,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d18aead27ac6214eb2393422367da90,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ea484cd6c36d5a74498d2eca4988d47a,
